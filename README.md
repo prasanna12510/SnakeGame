@@ -27,6 +27,7 @@ Limits
 • Memory limit per test : 256 megabytes
 • Time limit per test : The faster the better
 
+
 Compile & Environment:-
 C++
 g++ Main.cc -o Main -fno-asm -Wall -lm --static -std=c++0x -DONLINE_JUDGE
